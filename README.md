@@ -1,2 +1,2 @@
 # dataset.hargasaham
-TAIEX, NASDAQ, SP500
+TAIEX, NASDAQ, TYX
